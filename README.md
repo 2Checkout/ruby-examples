@@ -247,7 +247,7 @@ get '/' do
 
 end
 
-get '/order' do
+post '/order' do
 
 end
 ```
