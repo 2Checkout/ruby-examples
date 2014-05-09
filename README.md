@@ -322,7 +322,7 @@ Next we create a hash with our authorization attributes. In our example we are u
         :state => 'OH',
         :zipCode => '43123',
         :country => 'USA',
-        :email => 'cchristenson@2co.com',
+        :email => 'example@2co.com',
         :phoneNumber => '555-555-5555'
       }
   }
